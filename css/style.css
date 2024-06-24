@@ -30,13 +30,13 @@ footer {
 }
 
 @media (min-width: 320px) {
-    img {max-width: 20%;}
+    img {max-width: 30%;}
 }
 
 @media (min-width: 480px) {
-    img {max-width: 25%;}
+    img {max-width: 35%;}
 }
 
 @media (max-width: 1280px) {
-    img {max-width: 30%;}
+    img {max-width: 40%;}
 }
