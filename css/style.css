@@ -1,0 +1,19 @@
+body {
+    background: rgb(223, 223, 223);
+    font-family: "Raleway";
+}
+
+.wrapper {
+    max-width: 80%;
+    margin: 15vh auto;
+}
+
+img {
+    max-width: 25%;
+    margin: auto;
+    display: block;
+}
+
+p {
+    text-align: center;
+}
