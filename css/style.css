@@ -9,6 +9,11 @@ body {
     margin: 15vh auto;
 }
 
+#breadcrumb {
+    font-size: 1.2em;
+    text-align: left;
+}
+
 i {
     font-size: 2em;
     margin: auto;
