@@ -1,8 +1,8 @@
-# Atomic Dominion &#8482;
+# FC CAPITAL LLC
             
 - Shorting AAs
 - Caring and consulting
 - Law, options, securities, swaps
 - Analyzing bubbles + trends
 
-&copy; 2024-2030
+&copy; 2024
