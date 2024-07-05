@@ -5,4 +5,4 @@
 - Law, options, securities, swaps
 - Analyzing bubbles + trends
 
-&copy; 2024
+&copy; Fun Coupons Capital 2024
