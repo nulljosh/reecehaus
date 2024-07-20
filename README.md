@@ -1,7 +1,3 @@
-# LITERALLY CAPITAL LLC
-- Shorting AAs
-- Caring and consulting
-- Law, options, securities, swaps
-- Analyzing bubbles + trends
+# piña colada capital 🍹
 
-&copy; Literally Capital 2024
+&copy; piña colada capital 2024
