@@ -1,3 +1,3 @@
-# piña colada capital 🍹
+# coconut tree capital 🥥🌴
 
-&copy; piña colada capital 2024
+&copy; coconut tree capital 2024
