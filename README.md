@@ -1,3 +1,3 @@
-# coconut bank group 🥥🌴
+# coconut bank group 🥥💰
 
 &copy; coconut bank group 2024
