@@ -1,3 +1,3 @@
-# coconut tree capital 🥥🌴
+# coconut bank group 🥥🌴
 
-&copy; coconut tree capital 2024
+&copy; coconut bank group 2024
